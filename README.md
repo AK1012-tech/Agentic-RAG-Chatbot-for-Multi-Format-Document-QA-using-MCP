@@ -147,6 +147,14 @@ After uploading a document, try asking:
 
 ---
 
+## 📸 Demo
+
+Here’s how the Agentic RAG Chatbot looks in action:
+
+![image](https://github.com/user-attachments/assets/36bf8866-a650-444f-86a9-b5465f7ef1b9)
+
+---
+
 ## 📌 Future Improvements
 
 * 🧠 LangGraph-based agent control
